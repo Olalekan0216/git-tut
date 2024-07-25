@@ -1,1 +1,7 @@
 /* // impelment login */
+
+.login-btn{
+  padding: 10px 20px;
+  border: none;
+  background-color: blue;
+color: black;}
